@@ -56,3 +56,7 @@ To https://github.com/jimthoburn/netlify-lfs-example.git
    89de01d..709bce5  master -> master
 $
 ```
+
+<img width="1016" alt="Netlify Large Media" src="https://user-images.githubusercontent.com/926616/79077414-71998500-7cb6-11ea-9cb4-e5d915dcf4f1.png">
+
+https://lfs-example-jimthoburn.netlify.com/chia-seeds.jpg
