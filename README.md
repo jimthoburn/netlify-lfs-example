@@ -1,4 +1,6 @@
-# netlify-lfs-example
+# “Netlify Large Media” example setup
+
+See [images.la2050.org](https://github.com/la2050/images.la2050.org) for more details.
 
 ```
 $ cd netlify-lfs-example 
