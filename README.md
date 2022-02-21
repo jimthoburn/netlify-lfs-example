@@ -9,7 +9,7 @@ $ git lfs track "*.jpg" "*.jpeg" "*.png" "*.gif"
 $ git add .gitattributes
 $ git status
 $ git commit -m "Enable Git LFS"
-$ git push origin master
+$ git push origin main
 $ netlify link
 $ netlify lm:setup
 
@@ -33,10 +33,10 @@ $ cat .netlify/state.json
 
 $ git add .
 $ git commit -m "Use Netlify for LFS"  
-$ git push origin master
+$ git push origin main
 
 To https://github.com/jimthoburn/netlify-lfs-example.git
-   286081f..89de01d  master -> master
+   286081f..89de01d  main -> main
 
 $ git add .
 $ git commit -m "Add an example picture"
@@ -44,7 +44,7 @@ $ git commit -m "Add an example picture"
 1 file changed, 3 insertions(+)
 create mode 100644 chia-seeds.jpg
 
-$ git push origin master
+$ git push origin main
 
 Uploading LFS objects: 100% (1/1), 156 KB | 0 B/s, done.                                                                                                     
 Enumerating objects: 4, done.
@@ -55,7 +55,7 @@ Writing objects: 100% (3/3), 393 bytes | 393.00 KiB/s, done.
 Total 3 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/jimthoburn/netlify-lfs-example.git
-   89de01d..709bce5  master -> master
+   89de01d..709bce5  main -> main
 $
 ```
 
